@@ -1,4 +1,4 @@
-# CopyCheck
+# CLM-Uncertainty
 
 ## Overview:
 This code repository  is associated with our paper titled **Understanding and Exploiting Uncertainty in Code Language ModelsforVulnerability Detection (Experience Paper).** 
