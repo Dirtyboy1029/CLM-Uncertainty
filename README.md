@@ -1,7 +1,7 @@
 # CLM-Uncertainty
 
 ## Overview:
-This code repository  is associated with our paper titled **Understanding and Exploiting Uncertainty in Code Language ModelsforVulnerability Detection (Experience Paper).** 
+This code repository  is associated with our paper titled **Harnessing Uncertainty in Code Language Models: Lessons from Vulnerability Detection.** 
 
 ## Dependencies:
 We develop the codes on Windows operation system, and run the codes on Ubuntu 22.04. The runtime environment for the code is the same as that of [BLoB](https://github.com/Wang-ML-Lab/bayesian-peft). 
